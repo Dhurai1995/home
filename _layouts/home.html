@@ -10,22 +10,19 @@ layout: default
 
 <h2 id="Blog"> Featured Projects </h2>
 <hr class="bar-blog"> </hr>
-{% for post in site.categories['blog'] limit:3%}
 
-    <div class="post-header title">
-      <a href="{{post.url}}"><h1 class="post-title">{{ post.title }}</h1></a>
-    </div>
-    <div class="post-header date">
-      <p class="post-meta">{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-    </div>
+<a href="https://dhurai1995.github.io/home/blog/2019/01/01/Project-one.html"><h2>Laptime Simulation software</h2> </a>
+<p style="margin-bottom:1cm;"></p>
 
-{% endfor %}
+<a href="https://dhurai1995.github.io/home/blog/2018/01/01/Project-two.html"><h2> Housing price prediction </h2> </a>
+<p style="margin-bottom:1cm;"></p>
+
+<a href="https://dhurai1995.github.io/home/blog/2017/01/01/Project-three.html"><h2> Timber game </h2> </a>
+<p style="margin-bottom:1cm;"></p>
+
 <hr class="bar-blog"> </hr>
 
 <!--<h2 id="Blog"><a href="/posts"> More >> </a></h2>-->
-
-
-
 {% include contact.html %}
 
 <!--{% include message.html %}-->
