@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="mountains" src="{{ "/assets/img/lapTime.png" }}" /> 
+    <img alt="mountains" src="{{ "/home/assets/img/lapTime.png" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
