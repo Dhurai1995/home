@@ -1625,6 +1625,7 @@ form {
         letter-spacing: -1px;
         line-height: 1;
         padding-right: 0px;
+        text-align:center;
     }
 
         .post-title:hover {
