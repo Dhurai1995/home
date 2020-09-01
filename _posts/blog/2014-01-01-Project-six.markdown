@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="suspension" src="{{ "/assets/img/suspensionModel.jpg" }}" /> 
+    <img alt="suspension" src="{{ "/home/assets/img/suspensionModel.jpg" }}" /> 
     <p style="margin-bottom:1cm;"></p>
 
     <div class="contents">
