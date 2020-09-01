@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="mountains" src="{{ "/assets/img/twVehicle.gif" }}" /> 
+    <img alt="mountains" src="{{ "/home/assets/img/twVehicle.gif" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
