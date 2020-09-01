@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="mountains" src="{{ "/assets/img/final-1.jpg" }}" /> 
+    <img alt="mountains" src="{{ "/home/assets/img/final-1.jpg" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
