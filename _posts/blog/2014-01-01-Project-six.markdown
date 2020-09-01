@@ -13,7 +13,7 @@ categories: blog
        load cases, suspension and steering kinematic analysis</p>
     </div>
 
-    <img alt="mountains" src="{{ "/assets/img/CFS_model.jpg" }}" /> 
+    <img alt="CFS car model" src="{{ "/assets/img/CFS_model.jpg" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
