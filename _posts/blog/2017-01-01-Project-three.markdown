@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="timber game" src="{{ "/home/assets/img/timberGame.png" }}" /> 
+    <img alt="timber game" src="{{ "/home/assets/img/timberGame.PNG" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
