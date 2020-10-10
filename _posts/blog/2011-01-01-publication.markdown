@@ -1,18 +1,13 @@
 ---
 layout: post
-title:  " Three wheeler - Auto Ricksaw "
+title:  " List of b "
 categories: blog
 ---
 
-<div class="user-projects">
-    <img alt="three wheeled vehicle" src="{{ "/home/assets/img/twVehicle.gif" }}" /> 
+<div class="contents">
 
-    <p style="margin-bottom:1cm;"></p>
+    <a href="https://dhurai1995.github.io/home/blog/2019/01/01/Project-one.html"><h1 class="post-title" style="font-size:35px;">Development of Laptime Simulation Software with GUI.</h1> </a>
+    <a href="https://github.com/Dhurai1995/vehicleDynamics_Assignment3"><h1 class="post-title" style="font-size:35px;">Designing an Electronic Stability and Active anti roll bar Control system in MATLAB/Simulink</h1> </a>
+    <p style="margin-bottom:2cm;"></p>
 
-  <div class="contents">
-    <p>  Developed a three vehicle with two configuration to analyse their roll-over stability performance.</p>
-     <ul>
-      <li> ADAMS/Car </li>
-     </ul>
-  </div>
 </div>
